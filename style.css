@@ -112,7 +112,7 @@
   width: 683px;
   height: 44px;
 }
-.frame-8 {
+.frame-7 {
   background: rgba(255, 255, 255, 0.03);
   border-radius: 24px;
   border-style: solid;
@@ -184,7 +184,7 @@
   font-weight: var(--ui-label-regular-font-weight, 400);
   position: relative;
 }
-.more {
+.final-project {
   color: #ffffff;
   text-align: left;
   font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
